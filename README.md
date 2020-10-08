@@ -1,2 +1,3 @@
 # BLACKJACK App: JavaScript
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+
+## 👨‍💻 [View Demo](https://developaul.github.io/blackjack-js/)
